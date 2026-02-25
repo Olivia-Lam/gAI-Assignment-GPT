@@ -1,1 +1,0 @@
-# gAI-Assignment-GPT

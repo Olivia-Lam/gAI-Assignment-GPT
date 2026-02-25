@@ -1,0 +1,6 @@
+body { background: #f7f9fc; }
+.card { border-radius: 1rem; }
+.wizard-steps .step { flex:1; text-align:center; padding:.5rem; border-bottom:4px solid #dee2e6; font-weight:600; color:#6c757d; }
+.wizard-steps .step.active { border-color:#0d6efd; color:#0d6efd; }
+.avatar-thumb, .pet-thumb { width:80px; height:80px; object-fit:cover; border-radius:10px; background:#e9ecef; }
+.profile-avatar { width:120px; height:120px; object-fit:cover; border-radius:50%; }
